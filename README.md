@@ -1,6 +1,6 @@
 **tylerkeller.dev@gmail.com**
 
-**@t4k || @0xt4k
+**@t4k || @0xt4k**
 
 ---
 
