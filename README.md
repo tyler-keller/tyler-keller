@@ -4,8 +4,9 @@
 
 **@t4k | @0xt4k | @tylerkeller**
 
+---
 
-#### projects that i haven't done yet, but want to:
+### projects that i haven't done yet, but want to:
 - solving a rubiks cube w/ a NN
 - ed tool (for stem concepts) that's 10x more efficient and needs 10x less time
   - generative manim
