@@ -9,10 +9,6 @@
 
 ```
 
-**@t4k || @0xt4k**
-
-**tylerkeller.dev@gmail.com**
-
 ---
 
 ### projects that i haven't done yet:
