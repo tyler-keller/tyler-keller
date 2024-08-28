@@ -11,9 +11,12 @@
 
 ---
 
-### projects that i haven't done yet:
+## currently working:
+- weekly review dashboard
+
+### backlog:
 - youtube data viz
-- solving a rubiks cube w/ a NN
+- 
 - ed tool (for stem concepts) that's 10x more efficient and needs 10x less time
   - generative manim
   - edutain | epub ingestion
@@ -23,5 +26,3 @@
 - diabetic habits gamification app
   - share accomplishments w/ friends
   - habit building
-- any on-device LLM applications
-  - generally excited for when LLMs can be run on edge
